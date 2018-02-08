@@ -17,11 +17,10 @@ app.use(bodyParser.json());
 // =============================================================
 var characters = [
   {
-    routeName: "yoda",
-    name: "Yoda",
-    role: "Jedi Master",
-    age: 900,
-    forcePoints: 2000
+    name: "Jaime",
+    phoneNumber: "123-456-7890",
+    email: "noway@noway.com",
+    ID: "idk",
   }
 ];
 

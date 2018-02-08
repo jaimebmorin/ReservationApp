@@ -1,8 +1,8 @@
 {
-  "name": "starwars-express",
+  "name": "ReservationApp",
   "version": "1.0.0",
   "description": "## File",
-  "main": "server.js",
+  "main": "table.js",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
