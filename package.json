@@ -1,5 +1,5 @@
 {
-  "name": "ReservationApp",
+  "name": "reservationapp",
   "version": "1.0.0",
   "description": "## File",
   "main": "table.js",
@@ -9,15 +9,14 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server6.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jaimebmorin/ReservationApp.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jaimebmorin/ReservationApp/issues"
   },
